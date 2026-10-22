@@ -1,0 +1,4 @@
+# requirements.txt
+
+# No external libraries required
+# Tkinter is included with Python
